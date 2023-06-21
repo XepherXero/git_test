@@ -1,3 +1,5 @@
 Hello world, this is me, can't you see...
 
-I just made vs code the default text editor
+I just made vs code the default text editor on the work iMac
+
+But now want to see if it work on my Macbook
